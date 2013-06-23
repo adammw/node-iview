@@ -1,0 +1,23 @@
+{
+  "name": "iview",
+  "description": "A library to interface with ABC's iView video service",
+  "version": "0.0.0",
+  "author": "Adam Malcontenti-Wilson <adman.com@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adammw/node-iview.git"
+  },
+  "keywords": [
+    "video",
+    "adobe hds",
+    "iview",
+    "api"
+  ],
+  "dependencies": {
+    "request": "2.x.x",
+    "xml2js": "0.2.x",
+    "debug": "0.7.x",
+    "underscore": "1.4.x"
+  },
+  "license": "MIT"
+}
